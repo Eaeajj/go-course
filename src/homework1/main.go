@@ -30,7 +30,6 @@ func task1() {
 
 	fmt.Println("New slice:", newNumbers)
 	fmt.Printf("The sum is: %d\n", sum)
-
 }
 
 // Задача:
